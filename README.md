@@ -509,7 +509,7 @@ For questions or issues, refer to:
 
 ---
 
-**Built by:** Deepthi Davu | Data Engineer  
+**Built by:** S Deepthi Davu   
 **Date:** 2026-09  
 **Status:** Production-ready
 
